@@ -1,4 +1,4 @@
 Texto1
 
 
-HOLAAAAAAAAA PRUEBAAAA
+hola desde el archivo ejemplo.txt
