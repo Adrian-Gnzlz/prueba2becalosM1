@@ -1,3 +1,5 @@
 Texto2
 
 Hola, este es un ejemplo para el txt ejemplo2
+
+Hola de nuevo, ahora este es un ejemplo para llevar esta información desde el LOCAL hasta el EN LINEA
